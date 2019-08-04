@@ -1,6 +1,6 @@
 # musicPlayer
 
-###音乐API
+### 音乐API
 ---
 属性
 ```
@@ -23,7 +23,7 @@ audioObject.duration //获取音乐长度
 audioObject.currentTime //设置或者获取音乐当前播放的事件
 audioObject.ended //判断音乐是否播放完毕，只读属性
 ```
-###事件
+### 事件
 ```
 playing
 当音乐开始播放，暂停后重新开始播放，设置currentTime后开始播放时触发
